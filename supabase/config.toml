@@ -1,0 +1,5 @@
+[functions.chat-ai]
+verify_jwt = false
+
+[functions.admin-upload]
+verify_jwt = false
